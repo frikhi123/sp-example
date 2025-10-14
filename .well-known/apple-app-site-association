@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["2US92BS5Z6.com.qatarpass.app.devs"],
+        "components": [
+          { "/": "/idp/public/app" },
+          { "/": "/idp/public/app/*" }
+        ]
+      }
+    ]
+  }
+}
