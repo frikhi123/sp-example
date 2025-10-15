@@ -1,9 +1,12 @@
 {
-    "applinks":
-    {
+    "applinks": {
         "details": [
             {
                 "appID": "2US92BS5Z6.com.qatarpass.app.debug-development",
+                "paths": ["/sp/openapp"]
+            },
+            {
+                "appID": "57CTJ739FT.com.thalesgroup.ica.hamzatest",
                 "paths": ["/sp/openapp"]
             }
         ]
