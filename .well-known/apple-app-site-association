@@ -3,7 +3,7 @@
     {
         "details": [
             {
-                "appID": "2US92BS5Z6.com.qatarpass.app",
+                "appID": "2US92BS5Z6.com.qatarpass.app.debug-development",
                 "paths": ["/sp/openapp"]
             }
         ]
