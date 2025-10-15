@@ -3,11 +3,11 @@
         "details": [
             {
                 "appID": "2US92BS5Z6.com.qatarpass.app.debug-development",
-                "paths": ["/sp/openapp"]
+                "paths": ["/sp/openapp","/sp/openapp/*"]
             },
             {
                 "appID": "57CTJ739FT.com.thalesgroup.ica.hamza-test",
-                "paths": ["/sp/openapp"]
+                "paths": ["/sp/openapp","/sp/openapp/*"]
             }
         ]
     }
